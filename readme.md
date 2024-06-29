@@ -12,4 +12,4 @@ A leaderboard for speedruns of _Hang Fire_ (The Story of Joe Wisdom: 1896-1929),
 
 | Date | Name | Time Achieved | Segmented? | Edition or printing | Proof | 
 |------|------|---------------|------------|---------------------|-------|
-
+|      |      |               |            |                     |       |
