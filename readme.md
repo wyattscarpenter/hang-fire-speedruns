@@ -1,4 +1,4 @@
-# _Hang Fire_ speedruns
+# _Hang Fire_ speedruns 🤠
 A leaderboard for speedruns of _Hang Fire_ (The Story of Joe Wisdom: 1896-1929), the historical novel by Tom Wisdom (Thomas Alvin Wisdom) (may he rest in peace).
 
 ## Relevant links
